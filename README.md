@@ -17,9 +17,5 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/jfrancois-downey/jfrancois-downey/output/snake.svg" alt="Snake animation" />
-
+StackOverflow, my beloved
 ###
