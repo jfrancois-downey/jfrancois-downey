@@ -1,13 +1,3 @@
-<h2 align="left">Hi</h2>
-
-<div align="left"> I work at 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="k"  />
-  <img width="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" height="30" alt="m"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="a"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="30" alt="r"  />
-  <img width="2" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="t"  />
-</div>
+me fr:
+<br/>
+<img width="780" height="520" alt="image" src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyejZrb2VjZjA2bjM2aWVrMDlhZDltNTZ3cHM1OGdqdWNxYTloMWNnbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FlPJcTplkfefDCKq2b/source.gif" />
